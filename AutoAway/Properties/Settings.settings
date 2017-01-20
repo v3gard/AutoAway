@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AutoAway.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="AwayAfter" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="RunCmds" Type="System.String" Scope="User">
+      <Value Profile="(Default)">notepad.exe;calc.exe</Value>
+    </Setting>
+    <Setting Name="HTTPPostURL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://isengard.me.lan:5000</Value>
+    </Setting>
+    <Setting Name="AwayMessage" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ute av kontoret</Value>
+    </Setting>
+    <Setting Name="activate_httppost" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="active_runCmds" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="AutoAwayMessage" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Jeg er straks tilbake!</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
